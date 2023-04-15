@@ -1,2 +1,2 @@
 # Prosper-Loan-project
-This project is on a data set from Prosper, which is America’s first marketplace lending platform, with over $7 billion in funded loans.
+This project is on a data set from Prosper, which is America’s first marketplace lending platform, with over $7 billion in funded loans. The dataset contains information on 113,937 loans and 81 variables, including borrower rate, loan amount, current loan status, borrower income, employment status, credit history, and payment information. Predicting the status of a loan is an important problem in risk assessment. A bank or financial organisation has to be able to estimate the risk involved before granting a loan to a customer.
